@@ -30,15 +30,4 @@ extension Interpreter {
         }
         return output
     }
-    
-    func subtractNRegistries(Vx:Int, Vy:Int) -> UInt8 {
-        registers[VF] = 0
-        let R1 = UInt8(registers[Vx])
-        let R2 = UInt8(registers[Vy])
-        let(output,overflow) = R2.subtractingReportingOverflow(R1)
-        if !overflow {
-            registers[VF] = 1
-        }
-        return output
-    }
 }

@@ -185,7 +185,7 @@ class Interpreter: NSObject {
                 break
                 
             case 0x7:
-                registers[reg1] = self.subtractNRegistries(Vx: reg1, Vy: reg2)
+                registers[reg1] = self.subtractRegistries(Vx: reg2, Vy: reg1)
                 break
                 
             case 0xE:

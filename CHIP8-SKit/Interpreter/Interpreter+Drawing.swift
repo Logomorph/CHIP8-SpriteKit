@@ -40,15 +40,4 @@ extension Interpreter {
             X=x
         }
     }
-    
-    func vramToConsole() {
-        print("-----------------------")
-        for j in 0...31 {
-            var line = ""
-            for i in 0...63 {
-                line = line + (vram[j * 64 + i ] != 0 ? "1" : " ")
-            }
-            print(line)
-        }
-    }
 }
