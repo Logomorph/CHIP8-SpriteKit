@@ -11,7 +11,7 @@ As of now, there is no pre-built version of the emulator, so you need to install
 <kbd>-</kbd> - Decrease execution speed <br />
 
 #### Key Mapping
-<kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd> <kbd>C</kbd> -> <kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd> <kbd>4</kbd> <br/><br/>
-<kbd>4</kbd> <kbd>5</kbd> <kbd>6</kbd> <kbd>D</kbd> -> <kbd>q</kbd> <kbd>w</kbd> <kbd>e</kbd> <kbd>r</kbd> <br/><br/>
-<kbd>7</kbd> <kbd>8</kbd> <kbd>9</kbd> <kbd>E</kbd> -> <kbd>a</kbd> <kbd>s</kbd> <kbd>d</kbd> <kbd>f</kbd> <br/><br/>
+<kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd> <kbd>C</kbd> -> <kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd> <kbd>4</kbd> <br/>
+<kbd>4</kbd> <kbd>5</kbd> <kbd>6</kbd> <kbd>D</kbd> -> <kbd>q</kbd> <kbd>w</kbd> <kbd>e</kbd> <kbd>r</kbd> <br/>
+<kbd>7</kbd> <kbd>8</kbd> <kbd>9</kbd> <kbd>E</kbd> -> <kbd>a</kbd> <kbd>s</kbd> <kbd>d</kbd> <kbd>f</kbd> <br/>
 <kbd>A</kbd> <kbd>0</kbd> <kbd>B</kbd> <kbd>F</kbd> -> <kbd>z</kbd> <kbd>x</kbd> <kbd>c</kbd> <kbd>v</kbd>
